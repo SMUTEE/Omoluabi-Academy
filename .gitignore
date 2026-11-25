@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Editor / tooling
+.vscode/
+.idea/
+
+# AI tooling (keep out of the repo)
+.claude/
+AGENTS.md
